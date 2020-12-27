@@ -1,6 +1,8 @@
 # Dockerized PHP Object Generator
 
-Generate and maintain POG classes with close to no setup (just [Docker](https://docs.docker.com/) required) on your dev machine.
+Generate and maintain [PHP Object Generator](https://github.com/joelwan/php-object-generator) classes with close to no setup (just [Docker](https://docs.docker.com/) required).
+
+The purpose is to provide an out-of-the-box replacement for the abandoned PHP Object Generator on-line sevice.
 
 ## Quickstart
 
