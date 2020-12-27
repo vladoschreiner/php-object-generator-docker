@@ -29,3 +29,7 @@ In case you need to log into running docker container shell, run the following c
 ```bash
 $ make login
 ```
+
+## Attribution
+
+This repo uses modified config files from the [PHP Object Generator](https://github.com/joelwan/php-object-generator) project.
